@@ -1,9 +1,9 @@
 # lastoflast
 
-git add
+'git add'
 
 
-git commit
+'git commit'
 
 (1) 커밋 메시지의 제목과 상세 설명 사이에는 한 줄을 비워두세요.
 
@@ -21,13 +21,15 @@ git commit
 (6) 다른 사람들이 자신의 코드를 바로 이해할 수 있다고 가정하지 말고 최대한 친절하게 작성하세요. 
 
  
-git history
+'git history'
 그동안 커밋한 내용 보기
 
 
 
-git branch new \n
-git checkout new \n
-git push origin new \n
+'git branch new'
+
+'git checkout new'
+
+'git push origin new'
 
 git 
