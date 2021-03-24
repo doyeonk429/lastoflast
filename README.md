@@ -2,8 +2,11 @@
 
 git add
 
+
 git commit
+
 (1) 커밋 메시지의 제목과 상세 설명 사이에는 한 줄을 비워두세요.
+
 (2) 커밋 메시지의 제목 뒤에 온점(.)을 붙이지 마세요.
 
 (3) 커밋 메시지의 제목의 첫 번째 알파벳은 대문자로 작성하세요.
@@ -21,6 +24,10 @@ git commit
 git history
 그동안 커밋한 내용 보기
 
-git branch
+
+
+git branch new
+git checkout new
+git push origin new
 
 git 
