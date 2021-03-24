@@ -26,8 +26,8 @@ git history
 
 
 
-git branch new
-git checkout new
-git push origin new
+git branch new \n
+git checkout new \n
+git push origin new \n
 
 git 
